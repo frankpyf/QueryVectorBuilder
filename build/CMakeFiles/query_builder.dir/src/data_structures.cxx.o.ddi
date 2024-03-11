@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/query_builder.dir/src/data_structures.cxx.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "data_structures",
+          "source-path": "/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/src/data_structures.cxx"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

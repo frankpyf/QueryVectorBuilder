@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DDATA_PATH=/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/data -g -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk @CMakeFiles/query_builder.dir/src/query_builder.cpp.o.modmap -o CMakeFiles/query_builder.dir/src/query_builder.cpp.o -c /Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/src/query_builder.cpp",
+  "file": "/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/src/query_builder.cpp",
+  "output": "CMakeFiles/query_builder.dir/src/query_builder.cpp.o"
+},
+{
+  "directory": "/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DDATA_PATH=/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/data -g -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk @CMakeFiles/query_builder.dir/src/bvh_reader.cxx.o.modmap -o CMakeFiles/query_builder.dir/src/bvh_reader.cxx.o -c /Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/src/bvh_reader.cxx",
+  "file": "/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/src/bvh_reader.cxx",
+  "output": "CMakeFiles/query_builder.dir/src/bvh_reader.cxx.o"
+},
+{
+  "directory": "/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DDATA_PATH=/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/data -g -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk @CMakeFiles/query_builder.dir/src/data_structures.cxx.o.modmap -o CMakeFiles/query_builder.dir/src/data_structures.cxx.o -c /Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/src/data_structures.cxx",
+  "file": "/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/src/data_structures.cxx",
+  "output": "CMakeFiles/query_builder.dir/src/data_structures.cxx.o"
+}
+]

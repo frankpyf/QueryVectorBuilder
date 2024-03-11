@@ -1,0 +1,35 @@
+{
+	"modules" : 
+	{
+		"bvh_reader" : 
+		{
+			"bmi" : "/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/build/CMakeFiles/query_builder.dir/bvh_reader.pcm",
+			"is-private" : false
+		},
+		"data_structures" : 
+		{
+			"bmi" : "/Users/pingyifeng/Documents/Way2Success/QueryVectorBuilder/build/CMakeFiles/query_builder.dir/data_structures.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"bvh_reader" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/query_builder.dir/bvh_reader.pcm"
+		},
+		"data_structures" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/query_builder.dir/data_structures.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"bvh_reader" : 
+		[
+			"data_structures"
+		]
+	}
+}

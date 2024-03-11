@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/query_builder.dir/src/query_builder.cpp.o",
+      "requires": [
+        {
+          "logical-name": "bvh_reader"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}
